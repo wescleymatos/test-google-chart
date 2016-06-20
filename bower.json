@@ -1,0 +1,25 @@
+{
+  "name": "draw-chart",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "1.0.25",
+    "vue-resource": "0.8.0",
+    "lodash": "4.13.0",
+    "moment": "2.13.0",
+    "jquery": "3.0.0"
+  },
+  "devDependencies": {
+    "qunit": "^2.0.0"
+  }
+}
